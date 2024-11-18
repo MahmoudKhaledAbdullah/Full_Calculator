@@ -12,4 +12,4 @@ This is a simple calculator program that perform  mathematical operations.
  7. Multiple Operations: Multiple operations can be performed at a time according to their insertion order.
  8. Display Shifting: On entering while screen is full display will be shifted to show the new entries and will be shifted back on displaying the result.
  9. Configurable Properties: The maximum operations per entry and the maximum digits per entry can be performed per entry can be adjusted within the code #-directives.
- 10.Operations Precedence: The order of the opertions performed is  affected by their precedence.
+ 10. Operations Precedence: The order of the opertions performed is  affected by their precedence.

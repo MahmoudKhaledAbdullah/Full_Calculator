@@ -1,8 +1,7 @@
-# Full_Calculator
+Full_Calculator
 An ATMega32 Based Project where it is used for implementing a  calculator similar to the commercial ones while having multiple other features. 
-Description:
-This is a simple calculator program that perform  mathematical operations.
- Features:
+
+Features:
  1. Signed Numbers: It can deal with signed numbers as inputs or outputs.
  2. Floating Point Results: Although this calculator don't have '.' button, it can perform floating point operations and show a decimal result.
  3. Division By Zero: It can detect "Division By Zero" and thus, shows an error message.
